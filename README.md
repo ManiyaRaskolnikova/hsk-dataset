@@ -4,11 +4,11 @@ This repository contains data for the HSK Dataset for tone categorization in Chi
 
 *Dataset statistics*
 
-| Month    | Savings |
-| -------- | ------- |
-| January  | $250    |
-| February | $80     |
-| March    | $420    |
+|                Statistics                |   Volume    |
+| ---------------------------------------- | ----------- |
+| Size of downloaded dataset files         | 84.4 kB     |
+| Size of the auto-converted Parquet files | 32.8 kB     |
+| Number of rows                           | 605         |
 
 *Alternative datasets*
 
