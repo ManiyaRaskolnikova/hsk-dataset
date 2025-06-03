@@ -12,9 +12,11 @@ This repository contains data for the HSK Dataset for tone categorization in Chi
 
 *Alternative datasets*
 
-| Dataset name | Volume      | Features    | Source      |
-| --------     | ----------- | ----------- | ----------- |
-| Sample text  | Sample text | Sample text | Sample text |
+|    Dataset name     |   Volume    |                  Features                     |         Source            |
+| ------------------  | ----------- |---------------------------------------------  | ------------------------- |
+| arknights_voices_zh |    12431    |           speech of game characters           | computer game "Arknights" |
+|        Asked        |    12314    | chinese-English dialogues with code switching |    corpus of dialogues    |
+|   Multilingual TTS  |    25540    |         multiple languages and dialects       | text-to-speech conversion |
 
 ### Use cases
 
